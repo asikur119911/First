@@ -1,0 +1,19 @@
+// git folder e all file dekhte
+ls
+
+// hidden file soho dekhte
+Get-ChildItem -Force
+
+// to clone from github to local machine
+git clone <https link of repository>
+
+// git er stutus dekhar jonno
+git status
+
+//next folder e jawar jonno
+cd folder_name
+
+// kono file create or modify korle
+1.git add file_name
+2.git commit -m "msg"
+3. git push origin mainc
