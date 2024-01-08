@@ -1,4 +1,4 @@
-# First
+cd# First
 This is my first repository
 <br>
-Author - Asikur Rahman
+Author - Asikur Rahmans
